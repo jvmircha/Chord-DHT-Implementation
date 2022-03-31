@@ -1,5 +1,4 @@
 # Distributed Hash Table using Chord Protocol
-### Jaidev Mirchandani
 
 ## Description 
 `We have implemented a highly available and scalable distributed hash table using Chord protocol and implemented schemes for increased performance, replication, and consistency. `
