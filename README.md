@@ -1,9 +1,11 @@
 # Distributed Hash Table using Chord Protocol
+## Date - `03/09/2022`
+### Jaidev Mirchandani
 
 ## Description 
-`We have implemented a highly availbale and scalable distributed hash table using Chord protocol and implemented schemes for increased performance, replication and cosistency. `
+`We have implemented a highly available and scalable distributed hash table using Chord protocol and implemented schemes for increased performance, replication, and consistency. `
 ## Usage
-#### Intialize a Chord ring with a single node
+#### Initialize a Chord ring with a single node
 ```
 java Chord <Node Name>
 ```
