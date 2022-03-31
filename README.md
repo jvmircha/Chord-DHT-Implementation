@@ -1,5 +1,4 @@
 # Distributed Hash Table using Chord Protocol
-## Date - `03/09/2022`
 ### Jaidev Mirchandani
 
 ## Description 
